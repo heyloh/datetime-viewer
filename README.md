@@ -2,7 +2,7 @@
 📅 Projeto simples de uma página que mostra data e hora atual utilizando HTML, CSS e JavaScript.
 
 <p align="center">
-  <img src="./assets/img/valid.png" width="300px">
+  <img src="./assets/img/valid.png" width="500px">
 </p>
 
 #### O que fiz?
